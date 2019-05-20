@@ -31,6 +31,8 @@
 ### 微信群：
 ![微信群](https://raw.githubusercontent.com/maqueos/maqueos/master/res/qun.png)
 
+### 系统标识征集中！！！
+
 ## 捐赠
 
 微信赞赏码：
