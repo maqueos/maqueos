@@ -22,11 +22,13 @@
 一起创造美好世界
 
 ## 人才招募
+<font color=#ff0000 size=16>
 #### 我们正在招募大量有助于项目发展的技术、运营、市场等人员!
 
 #### 我们正在招募大量有助于项目发展的技术、运营、市场等人员!
 
 #### 我们正在招募大量有助于项目发展的技术、运营、市场等人员!
+</font>
 
 ### 微信群：
 ![微信群](https://raw.githubusercontent.com/maqueos/maqueos/master/res/qun.png)
