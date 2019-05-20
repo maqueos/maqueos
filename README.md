@@ -10,7 +10,7 @@
 未来一定还有更多类似的事情，作为中国人，我们要不要做点什么？华为在行动了，我们不能让华为独立承担，希望全世界的中国人联合起来，一起面对，一起打造一个更加开放的操作系统。
 
 ## 名称由来
-![麻雀分布] (https://raw.githubusercontent.com/maqueos/maqueos/master/res/map.jpg)
+![麻雀分布](https://raw.githubusercontent.com/maqueos/maqueos/master/res/map.jpg)
 
 麻雀（百度百科：https://baike.baidu.com/item/%E9%BA%BB%E9%9B%80/9557033 ）在全世界共27种，其中5种分布在中国境内。分布相当广泛。除极寒冷的南北极和高山荒漠，世界各地均有分布。
 
@@ -23,4 +23,4 @@
 
 ## 捐赠
 微信赞赏码：
-![赞赏码] (https://raw.githubusercontent.com/maqueos/maqueos/master/res/zan.jpg)
+![赞赏码](https://raw.githubusercontent.com/maqueos/maqueos/master/res/zan.jpg)
