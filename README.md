@@ -23,4 +23,4 @@
 
 ## 捐赠
 微信赞赏码：
-![赞赏码](https://raw.githubusercontent.com/maqueos/maqueos/master/res/zan.jpg)
+![赞赏码](https://raw.githubusercontent.com/maqueos/maqueos/master/res/zan.png)
