@@ -34,7 +34,8 @@
 ### 系统标识征集中！！！
 
 ## 捐赠
-欢迎大家各种方式捐赠和参与。
+为保证项目持续高效的运行，我们需要一些资金和资源，欢迎大家各种方式捐赠和提供。
+
 微信赞赏码：
 
 ![赞赏码](https://raw.githubusercontent.com/maqueos/maqueos/master/res/zan.png)
