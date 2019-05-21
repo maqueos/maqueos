@@ -38,6 +38,6 @@
 ## 项目捐赠
 为保证项目持续高效的运行，我们需要一些资金和资源，欢迎大家各种方式捐赠和提供。
 
-微信赞赏码：
+微信赞赏码（自愿行为，你的支持就是我们的动力）：
 
 ![赞赏码](https://raw.githubusercontent.com/maqueos/maqueos/master/res/zan.png)
